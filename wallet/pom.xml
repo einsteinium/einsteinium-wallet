@@ -120,7 +120,7 @@
 						<configuration>
 							<release>true</release>
 							<proguard>
-								<skip>false</skip>
+								<skip>true</skip>
 							</proguard>
 						</configuration>
 					</plugin>
