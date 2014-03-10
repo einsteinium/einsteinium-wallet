@@ -368,6 +368,84 @@ public class ExchangeRatesProvider extends ContentProvider
         return null;
     }
 
+private static Object getCoinValueBTC_ALLCOINS()
+    {
+        Date date = new Date();
+        long now = date.getTime();
+
+
+
+        //final Map<String, ExchangeRate> rates = new TreeMap<String, ExchangeRate>();
+        // Keep the LTC rate around for a bit
+        Double btcRate = 0.0;
+        String currency = CoinDefinition.cryptsyMarketCurrency;
+        String url = "https://www.allcoin.com/api1/pair/"+ CoinDefinition.coinTicker.toLowerCase() + "_" + CoinDefinition.cryptsyMarketCurrency.toLowerCase();
+
+
+
+
+        HttpURLConnection connection = null;
+        try {
+            // final String currencyCode = currencies[i];
+            final URL URL_allcoins = new URL(url);
+            connection = (HttpURLConnection)URL_allcoins.openConnection();
+            connection.setConnectTimeout(Constants.HTTP_TIMEOUT_MS * 2);
+            connection.setReadTimeout(Constants.HTTP_TIMEOUT_MS * 2);
+            connection.connect();
+
+            final StringBuilder content = new StringBuilder();
+
+            Reader reader = null;
+            try
+            {
+                reader = new InputStreamReader(new BufferedInputStream(connection.getInputStream(), 1024));
+                Io.copy(reader, content);
+                final JSONObject head = new JSONObject(content.toString());
+                String result = head.getString("code");
+                if(result.equals("1"))
+                {
+
+	            JSONObject jdata = head.getJSONObject("data");
+                    Double averageTrade = jdata.getDouble("trade_price");
+
+
+                    if(currency.equalsIgnoreCase("BTC"))
+                        btcRate = averageTrade;
+                }
+
+            }
+            finally
+            {
+                if (reader != null)
+                {
+                    try
+                    {
+                        reader.close();
+                    }
+                    catch (final IOException x)
+                    {
+                        // swallow
+                    }
+                }
+            }
+            return btcRate;
+        }
+        catch (final IOException x)
+        {
+            x.printStackTrace();
+        }
+        catch (final JSONException x)
+        {
+            x.printStackTrace();
+        }
+        finally {
+            if (connection != null)
+                connection.disconnect();
+        }
+
+        return null;
+    }
+
 
 	private static Map<String, ExchangeRate> requestExchangeRates(final URL url, final String... fields)
 	{
@@ -385,7 +463,7 @@ public class ExchangeRatesProvider extends ContentProvider
 
             if(result == null)
             {
-                result = getCoinValueBTC_alternate();
+                result = getCoinValueBTC_ALLCOINS();
                 if(result == null)
                     return null;
                 else btcRate = (Double)result;
