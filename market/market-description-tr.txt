@@ -1,0 +1,21 @@
+Einsteinium'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Einsteinium cüzdanı ilk mobil Einsteinium uygulamasıdır ve muhtemelen en güvenli Einsteinium uygulamasıdır!
+
+İŞLEVLERİ:
+• Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
+• Einsteinium meblağlarının BTC ve mBTC olarak gösterilmesi.
+• Dövizlere ve dövizlerden dönüştürme.
+• NFC, QR kodu veya Einsteinium bağlantıları ile Einsteinium gönderir ve alır.
+• Sık kullanılan Einsteinium adresleri için adres defteri içerir.
+• Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
+• Alınan Einsteinium'ler için sistem bildirimleri.
+• Einsteinium bakiyesini görüntüleyen widget.
+
+Einsteinium hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
+http://www.einsteinium.org
+
+Einsteinium Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
+https://github.com/einsteinium/einsteinium-wallet
+
+Lisans: GPLv3
+Tüm riski siz üstlenmiş olursunuz.
+http://www.gnu.org/licenses/gpl-3.0.en.html

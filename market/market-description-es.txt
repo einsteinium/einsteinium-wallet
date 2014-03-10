@@ -1,0 +1,20 @@
+Consiste en una cartera de Einsteiniums para tu dispositivo Android. Puedes enviar Einsteiniums entre teléfonos haciendo explorar los códigos QR que muestra la aplicación o mediante NFC (Near Field Communication).
+
+CARACTERÍSTICAS:
+
+• Visualización del saldo de la cartera en Einsteinium y en otras monedas.
+• Envío y recpción de Einsteiniums a través de NFC, códigos QR o URL Einsteinium.
+• Libreta de direcciones para guardar las direcciones Einsteinium utilizadas habitualmente.
+• Las transacciones se pueden llevar a cabo sin conexión, ejecutándose al recuperar la conexión.
+• Notificaciones de sistema para la conectividad a la red Einsteinium y para la recepción de Einsteiniums.
+• Widget de aplicación para el saldo Einsteinium.
+
+Puedes descubrir más sobre Einsteinium en
+http://www.einsteinium.org
+
+Si quieres contribuir a Einsteinium Wallet, el proyecto está localizado en
+https://github.com/einsteinium/einsteinium-wallet
+
+Licencia: GPLv3
+¡Úsalo bajo tu propia responsabilidad!
+http://www.gnu.org/licenses/gpl-3.0.en.html

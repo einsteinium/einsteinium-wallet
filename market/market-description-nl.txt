@@ -1,0 +1,20 @@
+Dit is een standalone Einsteinium Wallet voor uw Android apparaat. U kan direct Einsteiniums versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+
+FUNCTIES:
+
+• Weergeven van het wallet saldo in Einsteinium en verschillende andere valuta.
+• Verzenden en ontvangen van Einsteinium via NFC, QR-codes of Einsteinium URLs.
+• Adresboek voor veelgebruikte Einsteinium adressen.
+• Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
+• Systeem melding over Einsteinium connectiviteit en ontvangen Einsteiniums.
+• Widget voor Einsteinium saldo.
+
+Voor meer informatie over Einsteinium kunt u terecht op
+http://www.einsteinium.org
+
+Als u een bijdrage wil leveren aan Einsteinium Wallet, het project is te vinden op
+https://github.com/einsteinium/einsteinium-wallet
+
+Licentie: GPLv3
+Gebruik op eigen risico!
+http://www.gnu.org/licenses/gpl-3.0.en.html

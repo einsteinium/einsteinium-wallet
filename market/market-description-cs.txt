@@ -1,0 +1,20 @@
+Tato aplikace je peněženka s Einsteiniumy pro systém Android. Můžete posílat Einsteiniumy mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
+
+VLASTNOSTI:
+
+• Zobrazení zůstatku peněženky v Einsteiniumech a několika jiných měnách.
+• Odesílání a přijímání Einsteiniumů pomocí NFC, QR-kódů, nebo Einsteinium adres.
+• Adresář pro často používané adresy.
+• Možnost zadávání transakcí v offline režimu, k jejich zpracování dojde po připojení.
+• Oznamování v liště při synchronizaci a při přijetí Einsteiniumů.
+• Widget s celkovým zůstatkem.
+
+Více informací o Einsteiniumech
+http://www.einsteinium.org
+
+Pokud chcete přispět do projektu Einsteinium Wallet, naleznete jej na adrese
+https://github.com/einsteinium/einsteinium-wallet
+
+License: GPLv3
+Použití pouze na vlastní riziko!
+http://www.gnu.org/licenses/gpl-3.0.en.html

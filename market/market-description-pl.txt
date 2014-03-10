@@ -1,0 +1,20 @@
+Samodzielny portfel Einsteinium dla Twojego urządzenia Android. Możesz wysyłać Einsteinium pomiędzy telefonami skanując kod QR, który jest wyświetlany przez aplikacje, lub przez NFC (Near Field Communication).
+
+FUNKCJE:
+
+• Wyświetlanie stanu konta portfela w Einsteinium i rożnych innych walutach.
+• Wysyłanie i odbieranie Einsteinium przez NFC, kod QR albo Einsteinium URL.
+• Książka adresowa dla regularnie używanych adresów Einsteinium.
+• Możliwość dodania transakcji offline, wykonywanych po połączeniu z siecią.
+• Notyfikacje systemowe o połączeniu z siecią Einsteinium i otrzymanych monetach.
+• Widget na stan konta Einsteinium.
+
+Więcej o Einsteinium dowiesz się pod adresem:
+http://www.einsteinium.org
+
+Jeżeli chcesz wesprzeć Einsteinium Wallet, kody źródłowe projektu znajdują się pod adresem:
+https://github.com/einsteinium/einsteinium-wallet
+
+Licencja: GPLv3
+Używanie jedynie na własne ryzyko!
+http://www.gnu.org/licenses/gpl-3.0.en.html

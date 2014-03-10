@@ -1,0 +1,21 @@
+Dengan aplikasi ini Anda selalu mempunyai Einsteinium dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Einsteinium Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+
+FITUR:
+
+• Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
+• Tampilkan saldo dompet dalam Einsteinium dan mata uang lainnya.
+• Mengirim dan menerima Einsteinium via NFC, kode-QR atau Tautan Einsteinium.
+• Buku alamat untuk alamat penggunaan Einsteinium secara reguler.
+• Masukkan transaksi saat offline, akan dilaksanakan ketika online.
+• Notifikasi sistem untuk konektivitas Einsteinium dan menerima koin.
+• Widget Apl untuk saldo Einsteinium.
+
+Anda dapat mengetahui lebih mengenai Einsteinium di
+http://www.einsteinium.org
+
+Jika Anda ingin berkontribusi kepada Einsteinium Wallet, proyeknya berada di
+https://github.com/einsteinium/einsteinium-wallet
+
+Lisensi: GPLv3
+Gunakan dengan resiko Anda!
+http://www.gnu.org/licenses/gpl-3.0.en.html

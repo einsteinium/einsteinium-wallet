@@ -1,0 +1,22 @@
+Have your Einsteiniums always with you, in your pocket! You pay by quickly scanning a QR-code. As a merchant, you receive payments reliably and instantly. Einsteinium Wallet is the first mobile Einsteinium app, and arguably also the most secure!
+
+FEATURES:
+
+• No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
+• Display of Einsteinium amount in FRK and mFRK.
+• Conversion to and from national currencies.
+• Sending and receiving of Einsteinium via NFC, QR-codes or Einsteinium URLs.
+• Address book for regularly used Einsteinium addresses.
+• When you're offline, you can still pay via Bluetooth.
+• System notification for received coins.
+• App widget for Einsteinium balance.
+
+You can find more about Einsteinium at
+http://www.einsteinium.org
+
+If you want to contribute to Einsteinium Wallet, the project is located at
+https://github.com/einsteinium/einsteinium-wallet
+
+License: GPLv3
+Use at your own risk!
+http://www.gnu.org/licenses/gpl-3.0.en.html
