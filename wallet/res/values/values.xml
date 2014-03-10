@@ -13,10 +13,10 @@
 		<item>2/3</item>
 	</string-array>
 	<string-array name="preferences_precision_labels">
-		<item>FRK, 8 digits</item>
-		<item>FRK, 6 digits</item>
-		<item>FRK, 4 digits</item>
-		<item>mFRK, 2 digits</item>
+		<item>EMC2, 8 digits</item>
+		<item>EMC2, 6 digits</item>
+		<item>EMC2, 4 digits</item>
+		<item>mEMC2, 2 digits</item>
 	</string-array>
 
 </resources>

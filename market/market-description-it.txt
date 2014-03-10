@@ -3,7 +3,7 @@ Porta i tuoi Einsteinium sempre con te, in tasca! Paghi velocemente scansionando
 CARATTERISTICHE:
 
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
-• Mostra l'ammontare di Einsteinium in FRK e mFRK.
+• Mostra l'ammontare di Einsteinium in EMC2 e mEMC2.
 • Conversione verso e dalle monete nazionali.
 • Invio e ricevimento di Einsteinium tramite NFC, codici QR o URL Einsteinium.
 • Rubrica degli indirizzi per usare indirizzi Einsteinium regolarmente.

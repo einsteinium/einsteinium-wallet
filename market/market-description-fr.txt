@@ -3,7 +3,7 @@ Ayez vos Einsteiniums toujours avec vous dans votre poche ! Payez rapidement en 
 FONCTIONS :
 
 • Pas d'inscription, de service Web ou de nuage de nécessaire ! Ce portefeuille est décentralisé et de pair-à-pair.
-• Affichage du montant de Einsteinium en FRK et mFRK.
+• Affichage du montant de Einsteinium en EMC2 et mEMC2.
 • Conversion de et vers des devises nationales.
 • Envoi et réception des Einsteinium via NFC, codes QR ou des URLs Einsteinium.
 • Carnet d'adresse pour les adresses Einsteinium utilisées régulièrement.

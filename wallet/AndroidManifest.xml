@@ -163,13 +163,13 @@
         <!-- Need to update this for the coin -->
 		<provider
 			android:name="de.schildbach.wallet.AddressBookProvider"
-			android:authorities="einsteinium.wallet.address_book"
+			android:authorities="com.einsteinium.wallet.address_book"
 			android:exported="false" />
         <!-- Need to update this for the coin -->
 		<provider
 			android:name="de.schildbach.wallet.ExchangeRatesProvider"
 
-			android:authorities="einsteinium.wallet.exchange_rates"
+			android:authorities="com.einsteinium.wallet.exchange_rates"
 
 			android:exported="false" />
 

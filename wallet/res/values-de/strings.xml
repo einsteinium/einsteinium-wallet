@@ -67,7 +67,7 @@
 	<string name="send_coins_fragment_receiving_address_error_cross_network_unknown">Kann Adresse von unbekanntem Netzwerk mit dieser Wallet nicht nutzen!</string>
 
 	<string name="send_coins_fragment_available_label">Verfügbar</string>
-	<string name="send_coins_fragment_pending">(FRK %s warten auf Bestätigung)</string>
+	<string name="send_coins_fragment_pending">(EMC2 %s warten auf Bestätigung)</string>
 	<string name="send_coins_fragment_amount_label">Betrag</string>
 	<string name="send_coins_fragment_amount_empty">Ergänze Betrag hier</string>
 	<string name="send_coins_fragment_amount_error">Ungültiger Betrag!</string>
@@ -125,7 +125,7 @@
 
 	<string name="amount_calculator_dialog_title">Währungs-Umrechner</string>
 	<string name="amount_calculator_dialog_button_use">Übernehmen</string>
-	<string name="amount_calculator_dialog_exchange_rate">FRK 1 ist etwa %1$s %2$s wert\nKurs von %3$s abgerufen</string>
+	<string name="amount_calculator_dialog_exchange_rate">EMC2 1 ist etwa %1$s %2$s wert\nKurs von %3$s abgerufen</string>
 	<string name="amount_calculator_dialog_exchange_rate_not_available">Umrechnungskurs nicht verfügbar.</string>
 
 	<string name="network_monitor_activity_title">Netzwerk-Monitor</string>
@@ -231,8 +231,8 @@
 	<string name="button_paste">Einfügen</string>
 	<string name="button_share">Teilen</string>
 	<string name="button_set_as_default">Als Standard setzen</string>
-	<string name="button_request_coins">FRK anfordern</string>
-	<string name="button_send_coins">FRK senden</string>
+	<string name="button_request_coins">EMC2 anfordern</string>
+	<string name="button_send_coins">EMC2 senden</string>
 	<string name="button_scan">Scannen</string>
 	<string name="button_edit_address">Adresse hinzufügen/ändern</string>
 	<string name="action_browse">Im Browser öffnen</string>

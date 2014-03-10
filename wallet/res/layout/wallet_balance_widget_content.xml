@@ -35,7 +35,7 @@
 				android:layout_height="wrap_content"
 				android:layout_marginLeft="12dp"
 				android:singleLine="true"
-				android:text="FRK"
+				android:text="EMC2"
 
 				android:textColor="#bbb"
 				android:textSize="24sp"
