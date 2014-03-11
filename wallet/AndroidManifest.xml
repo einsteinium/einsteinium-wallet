@@ -78,7 +78,7 @@
 			<intent-filter>
 				<action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-				<data android:mimeType="application/x-frktx" />
+				<data android:mimeType="application/x-emc2tx" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
