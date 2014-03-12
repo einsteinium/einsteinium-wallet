@@ -4,8 +4,8 @@
 	xmlns:tools="http://schemas.android.com/tools"
 	package="com.einsteinium.wallet"
 	android:installLocation="internalOnly"
-	android:versionCode="10028"
-	android:versionName="0.98" >
+	android:versionCode="1000"
+	android:versionName="1.0" >
 
 	<uses-sdk
 		android:minSdkVersion="10"
